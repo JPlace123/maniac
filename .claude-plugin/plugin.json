@@ -1,0 +1,8 @@
+{
+  "name": "neatnik",
+  "version": "1.0.0",
+  "description": "Designs the machine that builds and maintains a project: who produces, who judges, and what happens when it is wrong.",
+  "homepage": "https://github.com/JPlace123/neatnik",
+  "license": "MIT",
+  "keywords": ["skill", "agents", "evaluator", "code-review", "methodology", "claude-code"]
+}
